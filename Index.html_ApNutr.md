@@ -2,7 +2,7 @@
 <html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
-    <title>Aparecida NutriÁ„o</title>
+    <title>Aparecida Nutri√ß√£o</title>
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" type="text/css" href="css/reset.css" />
     <link rel="stylesheet" type="text/css" href="css/index.css" />
@@ -10,7 +10,7 @@
   <body>
     <header>
       <div class="container">
-        <h2 class="titulo">Aparecida NutriÁ„o</h2>
+        <h2 class="titulo">Aparecida Nutri√ß√£o</h2>
       </div>
     </header>
     <main>
@@ -36,13 +36,13 @@
             </tr>
 
             <tr class="paciente">
-              <td class="info-nome">Jo„o</td>
+              <td class="info-nome">Jo√£o</td>
               <td class="info-peso">80</td>
               <td class="info-altura">1.72</td>
               <td class="info-gordura">40</td>
               <td class="info-imc">0</td>
             </tr>
-
+    
             <tr class="paciente">
               <td class="info-nome">Erica</td>
               <td class="info-peso">54</td>
@@ -50,7 +50,7 @@
               <td class="info-gordura">14</td>
               <td class="info-imc">0</td>
             </tr>
-
+    
             <tr class="paciente">
               <td class="info-nome">Douglas</td>
               <td class="info-peso">85</td>
@@ -69,7 +69,7 @@
         </table>
       </section>
     </main>
-
+    
     <script src="js/principal.js"></script>
   </body>
 </html>
